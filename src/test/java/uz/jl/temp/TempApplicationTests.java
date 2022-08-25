@@ -1,4 +1,4 @@
-package uz.jl.temp.temp;
+package uz.jl.temp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

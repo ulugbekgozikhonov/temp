@@ -1,4 +1,4 @@
-package uz.jl.temp.temp;
+package uz.jl.temp;
 
 import lombok.*;
 
