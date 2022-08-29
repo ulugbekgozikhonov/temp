@@ -1,4 +1,4 @@
-package uz.jl.temp;
+package uz.jl.temp.modul;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
