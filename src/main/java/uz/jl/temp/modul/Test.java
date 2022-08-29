@@ -12,4 +12,8 @@ public class Test {
     public int TwoSumNumber(int a,int b){
         return a+b;
     }
+
+    public static void test(){
+        System.out.println("Hello test");
+    }
 }
